@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component---tailwindcss-and-react-u8osERd3g8](https://www.frontendmentor.io/solutions/order-summary-component---tailwindcss-and-react-u8osERd3g8)
+- Live Site URL: [https://order-summary-component-xi-eosin.vercel.app/](https://order-summary-component-xi-eosin.vercel.app/)
 
 ## My process
 
